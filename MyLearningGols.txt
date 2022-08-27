@@ -1,0 +1,41 @@
+	- Develop an application (notepad/web app/etc.)
+	- Development using distributed version control systems
+		○ Develop, release, tests
+			§ Code analytics 
+			§ coverage
+			§ Unit, automation, performance tests
+			§ Runtime debug, tracebacks, logs
+		○ Collaboration
+	- Use CI/CD 
+		○ Auto trigger the continuous integration on all platforms
+		○ Continuous deployment on various platforms
+		○ Test automations
+			§ Unit, mocks, performance
+Prepare Project plans - Integrate with Jira/Polarian etc
+	- releases
+	- MVP
+	- Budgeting/estimations
+	- Outsource
+		
+	
+Can we use any Cloud services here? 
+
+
+Consider following points while working on project
+System Designs
+	Solve various system designs
+	
+Data structures
+	Study repositories
+	
+Algorithms
+	Study repositories
+	
+Topics
+	- Browser
+	- Text editor
+	- Translator
+	-  shopping cart
+	- Low code system
+	- Compiler
+Plug-ins
