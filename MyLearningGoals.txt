@@ -1,0 +1,5 @@
+// Create project in git
+// Start writing code
+// write down use cases
+// test written code for use cases
+//Commit to git
