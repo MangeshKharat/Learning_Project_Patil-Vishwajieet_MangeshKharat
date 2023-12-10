@@ -1,4 +1,15 @@
 	- Develop an application (notepad/web app/etc.)
+		We can use Python/C++
+	- Requirements:
+		It should read .txt files
+                Able to modify and save .txt files
+                - Future reqirements: Can show english dictionary suggestions.
+        - Design
+        - Detailed design
+        - Pipeline build and unit test creation
+        - Implementation
+        - Test creation
+        
 	- Development using distributed version control systems
 		○ Develop, release, tests
 			§ Code analytics 
